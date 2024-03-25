@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "time-2-pay-sac/1.0.0": {
+        "runtime": {
+          "time-2-pay-sac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "time-2-pay-sac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

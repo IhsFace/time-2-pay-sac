@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\bin\Debug\net8.0-windows\time-2-pay-sac.exe
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\bin\Debug\net8.0-windows\time-2-pay-sac.deps.json
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\bin\Debug\net8.0-windows\time-2-pay-sac.runtimeconfig.json
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\bin\Debug\net8.0-windows\time-2-pay-sac.dll
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\bin\Debug\net8.0-windows\time-2-pay-sac.pdb
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time_2_pay_sac.Form1.resources
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.dll
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\refint\time-2-pay-sac.dll
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.pdb
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\time-2-pay-sac.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\time-2-pay-sac\time-2-pay-sac\time-2-pay-sac\obj\Debug\net8.0-windows\ref\time-2-pay-sac.dll

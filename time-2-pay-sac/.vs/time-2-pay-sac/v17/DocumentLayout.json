@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihsaa\\Projects\\time-2-pay-sac\\time-2-pay-sac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E032A5-E24C-4C87-ABA0-F1116B3CDA27}|time-2-pay-sac\\time-2-pay-sac.vbproj|c:\\users\\ihsaa\\projects\\time-2-pay-sac\\time-2-pay-sac\\time-2-pay-sac\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4E032A5-E24C-4C87-ABA0-F1116B3CDA27}|time-2-pay-sac\\time-2-pay-sac.vbproj|solutionrelative:time-2-pay-sac\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E032A5-E24C-4C87-ABA0-F1116B3CDA27}|time-2-pay-sac\\time-2-pay-sac.vbproj|c:\\users\\ihsaa\\projects\\time-2-pay-sac\\time-2-pay-sac\\time-2-pay-sac\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A4E032A5-E24C-4C87-ABA0-F1116B3CDA27}|time-2-pay-sac\\time-2-pay-sac.vbproj|solutionrelative:time-2-pay-sac\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\time-2-pay-sac\\time-2-pay-sac\\time-2-pay-sac\\Form1.vb",
+              "RelativeDocumentMoniker": "time-2-pay-sac\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\time-2-pay-sac\\time-2-pay-sac\\time-2-pay-sac\\Form1.vb",
+              "RelativeToolTip": "time-2-pay-sac\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-25T00:35:17.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ihsaa\\Projects\\time-2-pay-sac\\time-2-pay-sac\\time-2-pay-sac\\Form1.vb",
+              "RelativeDocumentMoniker": "time-2-pay-sac\\Form1.vb",
+              "ToolTip": "C:\\Users\\ihsaa\\Projects\\time-2-pay-sac\\time-2-pay-sac\\time-2-pay-sac\\Form1.vb [Design]",
+              "RelativeToolTip": "time-2-pay-sac\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-25T00:22:37.348Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
